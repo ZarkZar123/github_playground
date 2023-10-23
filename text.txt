@@ -1,2 +1,3 @@
 example text
 test tracking
+try git ignore
