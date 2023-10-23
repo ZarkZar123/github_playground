@@ -1,2 +1,7 @@
+# exclude files or folders from git tracking
+
+#exclude file
 testgit.html
+
+# exclude folder
 /testFolder
